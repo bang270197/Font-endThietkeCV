@@ -1,0 +1,95 @@
+body {
+    margin: 80px 80px 80px 80px;
+}
+
+#wraper {
+    width: 100%;
+    height: 1300px;
+    background: cornsilk;
+}
+
+#left {
+    width: 225px;
+    height: 1300px;
+    background: #19a9ff;
+    float: left;
+}
+
+img {
+    border-radius: 50%;
+}
+
+hr {
+    width: 200px;
+    border: 1px solid brown;
+    align-content: center;
+}
+
+#img p {
+    border: 2px solid cornsilk;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+#right {
+    width: 1000px;
+    height: 800px;
+}
+
+#left-content i {
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+
+#title {
+    font-size: 20px;
+    border: 2px solid cornsilk;
+    text-align: center;
+}
+
+#title1 {
+    font-size: 20px;
+    border: 2px solid cornsilk;
+    text-align: center;
+}
+
+#content-left-bot p {
+    font-size: 17px;
+    color: #eeeeee;
+}
+
+#content-left-bot1 p {
+    font-size: 17px;
+    color: #eeeeee;
+}
+
+#right {
+    width: 960px;
+    height: 1300px;
+    background: #fff0fb;
+    float: right;
+}
+
+#right p {
+    font-size: 20px;
+    color: #19a9ff;
+    text-align: center;
+    font-weight: bold;
+}
+#right hr{
+    width: 100px;
+    border: 1px solid black;
+}
+#muctieu{
+    border: 2px solid #19a9ff;
+    font-size: 17px;
+    font-weight: bold;
+    align-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
